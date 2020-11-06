@@ -1,0 +1,10 @@
+{
+  "name": "callback-delay",
+  "version": "1.0.0",
+  "description": "make a cb delayed and once fire",
+  "main": "index.js",
+  "repository": "git@github.com:pulsovi/callback-delay.git",
+  "author": "David GABISON <david.gabison@outlook.com>",
+  "license": "MIT",
+  "private": false
+}
